@@ -25,7 +25,7 @@ Semelhante as tecnologias utilizadas
 **Repositório:** 
 
 ```
-git clone https://github.com/lucieldi/Senai_ClientesLab.git
+git clone https://github.com/lucieldi/ClienteLab.git
 ```
   
 **Entre no diretório:** 
@@ -40,7 +40,8 @@ cd [nome-pasta]
 dotnet run
 ```
 
-###  Tutor responsávem Caique Zanet
+###  Tutor responsável :
+**Caique Zanet**
 
 **Senai-EAD-Sp**
 
